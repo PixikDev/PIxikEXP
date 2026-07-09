@@ -1,0 +1,6 @@
+name: InstantXP
+version: '1.0.0'
+main: me.pixik.instantxp.InstantXP
+api-version: '1.20'
+author: pixik
+description: Мгновенно зачисляет опыт игроку вместо того, чтобы шарики опыта падали и валялись на земле
